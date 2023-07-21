@@ -1,2 +1,2 @@
-# Python
-Python mokymasis
+# WEB-TASK
+Internetines svetaines kurimo uzduotis
