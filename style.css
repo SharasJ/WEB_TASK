@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://img.freepik.com/free-photo/high-angle-paddle-tennis-white-line_23-2149459020.jpg?w=1380&t=st=1689868086~exp=1689868686~hmac=73f99b26bebbe809837da69d62ede846a45e8a768eb6af9ba562fc9d844b9812');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+  }
+  
+  @keyframes  {
+    100% {
+      background-image: url('https://img.freepik.com/free-photo/high-angle-paddle-tennis-white-line_23-2149459020.jpg?w=1380&t=st=1689868086~exp=1689868686~hmac=73f99b26bebbe809837da69d62ede846a45e8a768eb6af9ba562fc9d844b9812');
+    }
+    
+  }
+  
+  header {
+  background-color: #000000;
+  background-image: url("https://static.independent.co.uk/2023/07/02/14/d040ec1c4a4435d49e7d716021099d93Y29udGVudHNlYXJjaGFwaSwxNjg4Mzg4MTU5-2.72631381.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 15%; 
+  padding-left: 120px; 
+  
+    color: #d8fd03;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+    color: #a3d616;
+  }
+  #contacts p {
+    white-space: pre-line;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   
+    justify-content: center; 
+}
+
+form div {
+    width: 100%;
+    max-width: 300px; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 400px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+
+
+td {
+    vertical-align: top;
+}
+
+/* Padaryti lenteles vidurį kaireje pusėje */
+table {
+    margin-left: 20px
+    
+}
+
+    
+  
+  footer {
+    background-color: #0a0a0a;
+    color: #e2fa07;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0; /* Pakeiskite 'right: 0;' į 'left: 0;' */
+    width: 100%;
+  }
+  
